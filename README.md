@@ -1,11 +1,6 @@
 # Project Snack Bar:
 
-A student that completes this project shows that they can:
-
-* use the Java Development Kit (JDK)
-* use and manipulate Java base data types
-* construct Java classes including instantiating and using Java Objects
-* use and manipulate Java base data types
+This project is an exercise for creating classes and packages in Java.
 
 # Introduction
 
