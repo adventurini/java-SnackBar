@@ -7,9 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="snackBar"/>
-	<classpathentry kind="lib" path="snackBar/Customer.java"/>
 	<classpathentry kind="lib" path="snackBar/Main.class"/>
-	<classpathentry kind="lib" path="snackBar/Snacks.class"/>
-	<classpathentry kind="lib" path="snackBar/VendingMachines.java"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
