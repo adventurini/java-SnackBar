@@ -8,5 +8,5 @@
 
 - [x] Uses Lambda Expressions
 
-- [x] List alphabetically those animals that are mammals.
+- [] List alphabetically those animals that are mammals.
 
